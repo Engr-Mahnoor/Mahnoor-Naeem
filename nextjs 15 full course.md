@@ -1,4 +1,4 @@
-write commands on terminal:
+Write commands on terminal:
 npx create-next-app@latest
 project name: hello-world
 typescript: yes
